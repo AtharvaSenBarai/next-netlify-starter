@@ -3,7 +3,6 @@
 <script src=./js/sweetalert2.js></script>
 <link href="https://fonts.googleapis.com/css?family=Nunito:400,700" rel=stylesheet>
 <title>Log in | Mini Diary</title>
-<body class=bg-light>
 <div class=container-fluid>
 <div class="row mx-1">
 <div class="col-lg-10 col-md-10 offset-lg-1 offset-md-1 text-center mt-5 pb-4 text-primary">
@@ -52,5 +51,4 @@
 <script src=./js/app.js></script>
 <script src=app.js></script>
 <script src=./Auth/googleAuth.js></script>
-</body>
 
